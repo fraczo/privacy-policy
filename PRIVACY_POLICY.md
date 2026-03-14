@@ -13,6 +13,7 @@ We collect several different types of information for various purposes to provid
 ### Types of Data Collected
 
 **Personal Data:**
+
 - Email address
 - First name and last name
 - Phone number
@@ -20,12 +21,14 @@ We collect several different types of information for various purposes to provid
 - Cookies and Usage Data
 
 **Usage Data:**
+
 - Pages visited within the Service
 - Time and date of your visits
 - Time spent on those pages
 - Other diagnostic data collected through analytics services
 
 **Service-Specific Data:**
+
 - Content created or uploaded within our Services
 - Collaboration and interaction data
 - File metadata and user activity logs
@@ -91,6 +94,7 @@ If you have any questions about this Privacy Policy, please contact us:
 **By phone:** [Phone number]
 **By email:** privacy@rawcom.com
 **By mail:**
+
 ```
 RAWCOM
 Privacy Department
