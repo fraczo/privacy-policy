@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-RAWCOM ("Company", "we", "our", or "us") operates the NotePilot application (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
+RAWCOM ("Company", "we", "our", or "us") operates various digital products and services (the "Services"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Services and the choices you have associated with that data.
 
 ## 2. Information Collection and Use
 
@@ -25,11 +25,11 @@ We collect several different types of information for various purposes to provid
 - Time spent on those pages
 - Other diagnostic data collected through analytics services
 
-**Meeting Data:**
-- Meeting transcripts (when you enable transcription)
-- Meeting notes created within the Service
-- Chat messages in the context of meeting collaboration
-- Meeting metadata (date, time, participants)
+**Service-Specific Data:**
+- Content created or uploaded within our Services
+- Collaboration and interaction data
+- File metadata and user activity logs
+- Service-specific analytics and usage patterns
 
 ## 3. Use of Data
 
@@ -63,9 +63,10 @@ These third parties have access to your Personal Data only to perform these task
 ### Third-Party Services Used
 
 - **Microsoft Azure** - Cloud infrastructure and services
-- **Microsoft Graph API** - User and calendar data access
-- **Azure OpenAI** - AI-powered summaries and analysis
-- **Microsoft Teams** - Meeting and collaboration platform
+- **Microsoft Graph API** - User and calendar data access (where applicable)
+- **Azure OpenAI** - AI-powered features and analysis (where applicable)
+- **Third-party analytics** - Service performance and usage monitoring
+- **Payment processors** - Transaction processing (where applicable)
 
 ## 6. Links to Other Sites
 
@@ -87,6 +88,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us:
 
+**By phone:** [Phone number]
 **By email:** privacy@rawcom.com
 **By mail:**
 ```

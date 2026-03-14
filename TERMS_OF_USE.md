@@ -4,7 +4,7 @@
 
 ## 1. Acceptance of Terms
 
-By accessing and using the NotePilot application (the "Service"), you accept and agree to be bound by the terms and provision of this agreement. If you do not agree to abide by the above, please do not use this service.
+By accessing and using RAWCOM's products and services (the "Services"), you accept and agree to be bound by the terms and provision of this agreement. If you do not agree to abide by the above, please do not use these services.
 
 ## 2. Use License
 
@@ -22,17 +22,17 @@ RAWCOM grants you a limited, non-exclusive, non-transferable, and non-sublicensa
 
 ## 3. Disclaimer
 
-The materials on the NotePilot Service are provided on an 'as is' basis. RAWCOM makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
+RAWCOM's Services and materials are provided on an 'as is' basis. RAWCOM makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
 
-Further, RAWCOM does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on the Service or otherwise relating to such materials or on any sites linked to the Service.
+Further, RAWCOM does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on RAWCOM's Services or otherwise relating to such materials or on any sites linked to the Services.
 
 ## 4. Limitations
 
-In no event shall RAWCOM or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on the NotePilot Service, even if RAWCOM or a RAWCOM authorized representative has been notified orally or in writing of the possibility of such damage.
+In no event shall RAWCOM or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use RAWCOM's Services, even if RAWCOM or a RAWCOM authorized representative has been notified orally or in writing of the possibility of such damage.
 
 ## 5. Accuracy of Materials
 
-The materials appearing on the NotePilot Service could include technical, typographical, or photographic errors. RAWCOM does not warrant that any of the materials on the Service are accurate, complete, or current. RAWCOM may make changes to the materials contained on the Service at any time without notice.
+The materials and content available through RAWCOM's Services could include technical, typographical, or other errors. RAWCOM does not warrant that any of the materials on the Services are accurate, complete, or current. RAWCOM may make changes to the materials and services at any time without notice.
 
 ## 6. Materials and Content Ownership
 
@@ -40,9 +40,9 @@ RAWCOM does not own or endorse and is not responsible for (i) the accuracy, qual
 
 ## 7. User-Generated Content
 
-You retain all rights to any content you submit, post or display on or through the Service (including but not limited to meeting notes, meeting transcripts, and summaries created using the Service) ("User Content"). By submitting, posting or displaying User Content on or through the Service, you grant RAWCOM a worldwide, non-exclusive, royalty-free license to use, copy, reproduce, process, adapt, modify, publish, transmit, display and distribute such content in any media or medium and for any purpose.
+You retain all rights to any content you submit, post or display on or through RAWCOM's Services ("User Content"). By submitting, posting or displaying User Content on or through RAWCOM's Services, you grant RAWCOM a worldwide, non-exclusive, royalty-free license to use, copy, reproduce, process, adapt, modify, publish, transmit, display and distribute such content in any media or medium and for any purpose.
 
-This license permits RAWCOM to make your User Content available to the rest of the public and to let others do the same. You agree that this license includes the right for RAWCOM to provide, promote, and improve the Service and to make User Content submitted to or posted on the Service available to other companies, organizations or individuals for the syndication, broadcast, distribution, promotion or publication of such User Content on other media and services, subject to our terms and conditions for use of User Content.
+This license permits RAWCOM to make your User Content available to the rest of the public and to let others do the same where applicable. You agree that this license includes the right for RAWCOM to provide, promote, and improve the Services and to make User Content submitted to or posted on the Services available to other companies, organizations or individuals for the syndication, broadcast, distribution, promotion or publication of such User Content on other media and services, subject to our terms and conditions for use of User Content and applicable privacy settings.
 
 You represent and warrant that:
 
@@ -68,9 +68,9 @@ The Service may contain links to third-party websites. RAWCOM is not responsible
 
 ## 10. Intellectual Property Rights
 
-The Service and all content, features, and functionality (including but not limited to all information, software, text, displays, images, video and audio) are owned by RAWCOM, its licensors, or other providers of such material and are protected by United States and international copyright, trademark, and other intellectual property laws.
+RAWCOM's Services and all content, features, and functionality (including but not limited to all information, software, text, displays, images, video and audio) are owned by RAWCOM, its licensors, or other providers of such material and are protected by United States and international copyright, trademark, and other intellectual property laws.
 
-You are granted a limited license to use the Service for your personal, non-commercial use only. You may not reproduce, distribute, transmit, broadcast, display, sell, license, or otherwise exploit any content without RAWCOM's prior written consent.
+Unless otherwise specified for specific Services, you are granted a limited, non-exclusive, non-transferable license to use RAWCOM's Services for your personal or internal business use only. You may not reproduce, distribute, transmit, broadcast, display, sell, license, or otherwise exploit any content without RAWCOM's prior written consent.
 
 ## 11. Data and Security
 
@@ -86,11 +86,11 @@ RAWCOM will take reasonable steps to secure your personal data, but you acknowle
 
 ## 12. Cancellation and Termination
 
-RAWCOM may terminate or suspend an account and refuse any and all current or future use of the Service by a user for any reason or no reason, at any time and in our sole discretion, including for conduct that we believe violates these Terms or is harmful to other users, RAWCOM, or third parties.
+RAWCOM may terminate or suspend an account and refuse any and all current or future use of RAWCOM's Services by a user for any reason or no reason, at any time and in our sole discretion, including for conduct that we believe violates these Terms or is harmful to other users, RAWCOM, or third parties.
 
 ## 13. Modifications to Terms
 
-RAWCOM may revise these Terms of Use for the Service at any time without notice. By using the Service, you are agreeing to be bound by the then current version of these Terms of Use.
+RAWCOM may revise these Terms of Use for RAWCOM's Services at any time without notice. By using RAWCOM's Services, you are agreeing to be bound by the then current version of these Terms of Use.
 
 ## 14. Governing Law
 
@@ -121,4 +121,4 @@ Legal Department
 
 **ACKNOWLEDGMENT AND ACCEPTANCE OF TERMS**
 
-BY USING THE NOTEPILOT SERVICE, YOU ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS OF USE, UNDERSTAND THEM, AND AGREE TO BE BOUND BY ALL THEIR TERMS AND CONDITIONS. IF YOU DO NOT AGREE TO ABIDE BY THE ABOVE, PLEASE DO NOT USE THIS SERVICE.
+BY USING RAWCOM'S SERVICES, YOU ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS OF USE, UNDERSTAND THEM, AND AGREE TO BE BOUND BY ALL THEIR TERMS AND CONDITIONS. IF YOU DO NOT AGREE TO ABIDE BY THE ABOVE, PLEASE DO NOT USE THESE SERVICES.
